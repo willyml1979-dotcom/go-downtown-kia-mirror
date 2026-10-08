@@ -1,7 +1,7 @@
 {
   "dealership": "Go Downtown Kia",
-  "generated_at": "2026-10-07T00:33:09",
-  "vehicle_count": 338,
+  "generated_at": "2026-10-08T14:31:37",
+  "vehicle_count": 340,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -21,7 +21,9 @@
       "year": 2013,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2014 Subaru Forester i",
@@ -39,7 +41,9 @@
       "year": 2014,
       "make": "Subaru",
       "model": "Forester",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2015 Jeep Wrangler Sahara",
@@ -57,7 +61,9 @@
       "year": 2015,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2015 Mazda CX-5 GS",
@@ -75,25 +81,9 @@
       "year": 2015,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
-    },
-    {
-      "name": "2016 BMW X5 xDrive35i | SUNROOF | LEATHER SEATING WITH HEATED",
-      "vin": "5UXKR0C5XG0P29198",
-      "stock": "DCA6099",
-      "color": "White",
-      "trim": "xDrive35i",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/17f1af6637bb.html",
-      "source_url": "https://www.godowntownkia.ca/vehicles/2016/bmw/x5/vancouver/bc/71360527/?sale_class=used",
-      "dealer_url": "https://www.godowntownkia.ca/vehicles/2016/bmw/x5/vancouver/bc/71360527/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T18:44:28",
-      "price": 19798.0,
-      "price_currency": "CAD",
-      "odometer_km": 117600,
-      "year": 2016,
-      "make": "BMW",
-      "model": "X5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota RAV4 Hybrid Limited | LOCAL BC SUV | ONE OWNER | LEATHER |",
@@ -111,7 +101,26 @@
       "year": 2016,
       "make": "Toyota",
       "model": "RAV4 Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2017 Land Rover Discovery Sport AWD 4dr HSE LUXURY",
+      "vin": "SALCT2BG9HH649473",
+      "stock": "CB0014",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/410d1078f15c.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2017/land-rover/discovery-sport/vancouver/bc/71508469/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2017/land-rover/discovery-sport/vancouver/bc/71508469/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:35:50",
+      "odometer_km": 157795,
+      "year": 2017,
+      "make": "Land",
+      "model": "Rover Discovery Sport AWD 4dr HSE LUXURY",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2018 Mazda CX-3 GT",
@@ -129,7 +138,9 @@
       "year": 2018,
       "make": "Mazda",
       "model": "CX-3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Accord Sedan Touring | SUNROOF | LEATHER | BACK UP CAM |",
@@ -147,7 +158,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Accord",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Forte Sedan EX | HEATED STEERING WHEEL | HEATED FRONT SEATS",
@@ -165,7 +178,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Kia Sorento EX 2.4",
@@ -183,7 +198,9 @@
       "year": 2019,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Mazda CX-9 GT | VENTILATED SEATS | BOSE PREMIUM AUDIO | SUNRO",
@@ -201,7 +218,9 @@
       "year": 2019,
       "make": "Mazda",
       "model": "CX-9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Prius Prime LOCAL BC VEHICLE | HEATED SEATS | LANE DEPARTURE |",
@@ -219,7 +238,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Prius Prime",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 BMW X4 M Competition",
@@ -237,7 +258,9 @@
       "year": 2020,
       "make": "BMW",
       "model": "X4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda CX-5 Signature",
@@ -253,7 +276,9 @@
       "year": 2020,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Mazda Mazda3 Sport GT HATCH | CLEAN CARFAX | LOCAL BC VEHICLE | UPGRA",
@@ -271,7 +296,9 @@
       "year": 2020,
       "make": "Mazda",
       "model": "Mazda3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Porsche Macan S | LEATHER SEATS | HEATED FRONT SEATS | LOCAL BC",
@@ -289,7 +316,9 @@
       "year": 2020,
       "make": "Porsche",
       "model": "Macan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2020 Subaru Ascent Touring 7-Passenger",
@@ -304,7 +333,9 @@
       "year": 2020,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Honda Pilot Touring 8-Passenger | SUNROOF | LOW KILOMETRES | C",
@@ -322,7 +353,9 @@
       "year": 2021,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Kia Telluride SX",
@@ -340,7 +373,9 @@
       "year": 2021,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-5 Touring | ONE OWNER | HEATED FRONT SEATS",
@@ -358,7 +393,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Corolla Hatchback CLEAN CARFAX | HEATED FRONT SEATS",
@@ -376,7 +413,9 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Audi Q7 Komfort | LOCAL BC SUV | BENCH SEAT | SUNROOF |",
@@ -394,7 +433,9 @@
       "year": 2022,
       "make": "Audi",
       "model": "Q7",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Civic Sedan Sport | HEATED SEATS | APPLE CARPLAY & ANDROID AUT",
@@ -412,7 +453,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Honda CR-V Touring",
@@ -430,7 +473,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Hyundai Tucson Hybrid Ultimate | CLEAN CARFAX | LEATHER SEATS |  HEATED",
@@ -448,7 +493,9 @@
       "year": 2022,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Jeep Wrangler Unlimited High Altitude | CLEAN CARFAX | TOW PKG |",
@@ -466,7 +513,9 @@
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Kia EV6 Long Range w/GT-Line Pkg 1 | LOCAL BC VEHICLE | HE",
@@ -484,7 +533,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "EV6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2022 Mazda CX-30 GT w-Turbo AWD",
@@ -499,7 +550,9 @@
       "year": 2022,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Maverick XLT FWD SuperCrew",
@@ -517,7 +570,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Genesis GV80 2.5T Advanced | BC LOCAL SUV | CLEAN CARFAX | LEAT",
@@ -535,7 +590,9 @@
       "year": 2023,
       "make": "Genesis",
       "model": "GV80",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Honda CR-V Hybrid Touring | LOCAL BC SUV | LEATHER | SUNROOF",
@@ -553,7 +610,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Carnival EX",
@@ -571,7 +630,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia EV6 AWD Long Range",
@@ -586,7 +647,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "EV6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Forte Sedan EX | HEATED SEATS | BACKUP CAM |",
@@ -604,7 +667,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Rio Hatchback 5-Door LX Premium | ONE OWNER | CLEAN CARFAX | LOCAL BC V",
@@ -622,7 +687,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Soul EV EV Premium",
@@ -640,7 +707,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul EV EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Soul EX+ | LOCAL BC VEHICLE | POWER SUNROOF | WIRELESS",
@@ -658,7 +727,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Sportage Hybrid EX",
@@ -674,7 +745,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Kia Telluride SX Limited | CLEAN CARFAX | LOCAL BC SUV |",
@@ -692,7 +765,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "Telluride",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model 3 LOCAL BC VEHICLE | HEATED SEATS | BACK UP CAMERA |",
@@ -710,7 +785,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Tesla Model 3 RWD",
@@ -723,7 +800,9 @@
       "year": 2023,
       "make": "Tesla",
       "model": "Model 3 RWD",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2023 Volkswagen Tiguan Highline R-Line",
@@ -741,7 +820,9 @@
       "year": 2023,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid Touring | ONE OWNER | CLEAN CARFAX | WIRELESS CHAR",
@@ -759,7 +840,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Kona Preferred | LOCAL BC VEHICLE | HEATED SEATS & STEE",
@@ -777,7 +860,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Forte Sedan EX | HEATED FRONT SEATS | HEATED STEERING WHEEL",
@@ -795,7 +880,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Forte",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Niro EV Wind+ FWD",
@@ -813,7 +900,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage Hybrid SX | ONE OWNER | HARMAN KARDON AUDIO SYSTEM | SUNR",
@@ -831,7 +920,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Kia Sportage EX Premium",
@@ -847,7 +938,9 @@
       "year": 2024,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Mirage ES | CLEAN CARFAX | HEATED FRONT SEATS",
@@ -865,7 +958,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Mitsubishi Outlander GT NOIR | CLEAN CARFAX | LOCAL BC SUV | SUNROOF |",
@@ -883,25 +978,9 @@
       "year": 2024,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Mitsubishi RVR SE | ONE OWNER | HEATED FRONT SEATS",
-      "vin": "JA4AJVAW0RU604990",
-      "stock": "WP0099",
-      "color": "White",
-      "trim": "SE",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/5b552af11a56.html",
-      "source_url": "https://www.godowntownkia.ca/vehicles/2024/mitsubishi/rvr/vancouver/bc/71109953/?sale_class=used",
-      "dealer_url": "https://www.godowntownkia.ca/vehicles/2024/mitsubishi/rvr/vancouver/bc/71109953/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-06T00:26:25",
-      "price": 21498.0,
-      "price_currency": "CAD",
-      "odometer_km": 45373,
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "RVR",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited | LEATHER SEATS | HARMAN KARDON SOUND SYST",
@@ -919,7 +998,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Venza LE | CLEAN CARFAX | LOCAL BC VEHICLE | APPLE CARPL",
@@ -937,7 +1018,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Venza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen ID.4 Pro",
@@ -955,7 +1038,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "ID.4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Acura MDX A-Spec | LOCAL BC SUV | RED INTERIOR | SUNROOF | L",
@@ -973,7 +1058,9 @@
       "year": 2025,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 40 (Tiptronic) | CLEAN CARFAX | LOCAL BC VEHICLE |",
@@ -991,7 +1078,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Audi Q3 Progressiv | CLEAN CARFAX | LOCAL BC SUV |",
@@ -1009,7 +1098,9 @@
       "year": 2025,
       "make": "Audi",
       "model": "Q3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Chevrolet Trax LT | CLEAN CARFAX + LOCAL BC VEHICLE | HEATED SEAT",
@@ -1027,7 +1118,9 @@
       "year": 2025,
       "make": "Chevrolet",
       "model": "Trax",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Santa Fe Ultimate Calligraphy | CLEAN CARFAX | LOCAL BC SUV",
@@ -1045,7 +1138,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 EX | CLEAN CARFAX + LOCAL BC VEHICLE | BLIND SPOT",
@@ -1063,7 +1158,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Niro EV WIND | BIG SAVINGS | LIMITED TIME",
@@ -1081,7 +1178,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Niro EV Wind",
@@ -1099,7 +1198,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos X-Line | BIG SAVINGS | LIMITED TIME",
@@ -1117,7 +1218,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos EX | LOCAL BC SUV | SUNROOF | HEATED SEATS & HEATE",
@@ -1135,7 +1238,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos EX AWD | LEATHER | SUNROOF | HEATED SEATS & STEERI",
@@ -1153,7 +1258,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos EX AWD | CLEAN CARFAX | LOCAL BC SUV | SUNROOF | L",
@@ -1171,10 +1278,12 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
-      "name": "2025 Kia Sorento Hybrid EX | AWD |",
+      "name": "2025 Kia Sorento Hybrid EX | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDRHDJG4S5413662",
       "stock": "DSR5132",
       "color": "Grey",
@@ -1182,14 +1291,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/dbdde96534dc.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sorento-hybrid/vancouver/bc/71437716/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sorento-hybrid/vancouver/bc/71437716/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:00",
-      "price": 57650.0,
+      "last_verified": "2026-10-08T00:36:46",
+      "price": 52595.0,
       "price_currency": "CAD",
       "odometer_km": 15324,
       "year": 2025,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sorento Plug-In Hybrid EX | ONE OWNER | HOMELINK | HEATED FRONT SEATS",
@@ -1200,14 +1311,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/446ae0b1e226.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sorento-plug-in-hybrid/vancouver/bc/70986014/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sorento-plug-in-hybrid/vancouver/bc/70986014/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:09",
-      "price": 44998.0,
+      "last_verified": "2026-10-08T00:36:54",
+      "price": 44798.0,
       "price_currency": "CAD",
       "odometer_km": 4850,
       "year": 2025,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sorento X-Line | ONE OWNER | LOCAL BC SUV | CLEAN CARFAX |",
@@ -1218,14 +1331,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/5267e09cd86f.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sorento/vancouver/bc/70762326/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sorento/vancouver/bc/70762326/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:17",
-      "price": 40498.0,
+      "last_verified": "2026-10-08T00:37:02",
+      "price": 39998.0,
       "price_currency": "CAD",
       "odometer_km": 18133,
       "year": 2025,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Soul EX | CLEAN CARFAX |  HEATED STEERING WHEEL",
@@ -1236,14 +1351,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/461264a6191e.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/kia/soul/vancouver/bc/71161037/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/kia/soul/vancouver/bc/71161037/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:28",
-      "price": 25998.0,
+      "last_verified": "2026-10-08T00:37:12",
+      "price": 25798.0,
       "price_currency": "CAD",
       "odometer_km": 40720,
       "year": 2025,
       "make": "Kia",
       "model": "Soul",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Sportage X-Line | CLEAN CARFAX & LOCAL BC SUV | LEATHER SEA",
@@ -1254,14 +1371,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/5a9a2a0b4c8b.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sportage/vancouver/bc/70651404/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/kia/sportage/vancouver/bc/70651404/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:37",
-      "price": 28998.0,
+      "last_verified": "2026-10-08T00:37:23",
+      "price": 28898.0,
       "price_currency": "CAD",
       "odometer_km": 38602,
       "year": 2025,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV SE | LOCAL BC VEHICLE | SUNROOF | POWER FOLDING MI",
@@ -1272,14 +1391,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/d40b5f9a4421.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/mitsubishi/outlander-phev/vancouver/bc/70789811/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/mitsubishi/outlander-phev/vancouver/bc/70789811/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:48",
-      "price": 37998.0,
+      "last_verified": "2026-10-08T00:37:33",
+      "price": 37798.0,
       "price_currency": "CAD",
       "odometer_km": 53500,
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Impreza Convenience | REAR LIFTGATE | BLUETOOTH",
@@ -1290,14 +1411,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/acb28335317e.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/subaru/impreza/vancouver/bc/71360528/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/subaru/impreza/vancouver/bc/71360528/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:51:58",
-      "price": 27898.0,
+      "last_verified": "2026-10-08T00:37:43",
+      "price": 27798.0,
       "price_currency": "CAD",
       "odometer_km": 13400,
       "year": 2025,
       "make": "Subaru",
       "model": "Impreza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2025 Tesla Model Y Long Range | CLEAN CARFAX | ONE OWNER",
@@ -1308,32 +1431,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/ccaebccc4f18.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2025/tesla/model-y/vancouver/bc/71009434/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/tesla/model-y/vancouver/bc/71009434/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:52:08",
-      "price": 50998.0,
+      "last_verified": "2026-10-08T00:37:52",
+      "price": 50798.0,
       "price_currency": "CAD",
       "odometer_km": 91000,
       "year": 2025,
       "make": "Tesla",
       "model": "Model Y",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Volkswagen ID.4 Pro S | SUNROOF | ONE OWNER | VENTILATED FRONT SEA",
-      "vin": "1V2ASPE80SC007147",
-      "stock": "E57020A",
-      "color": "Black",
-      "trim": "Pro S",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/c9673c78d866.html",
-      "source_url": "https://www.godowntownkia.ca/vehicles/2025/volkswagen/id.4/vancouver/bc/71248496/?sale_class=used",
-      "dealer_url": "https://www.godowntownkia.ca/vehicles/2025/volkswagen/id.4/vancouver/bc/71248496/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:52:17",
-      "price": 55498.0,
-      "price_currency": "CAD",
-      "odometer_km": 3200,
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Buick Envision Avenir | CLEAN CARFAX | ONE OWNER | LOCAL BC SUV |",
@@ -1343,14 +1450,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/c2eed9d00644.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/buick/envision/vancouver/bc/71426921/?sale_class=used",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/buick/envision/vancouver/bc/71426921/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:52:27",
-      "price": 47898.0,
+      "last_verified": "2026-10-08T00:38:02",
+      "price": 47798.0,
       "price_currency": "CAD",
       "odometer_km": 12396,
       "year": 2026,
       "make": "Buick",
       "model": "Envision",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai IONIQ 9 Preferred + AWD w-Ultimate Calligraphy Pkg",
@@ -1366,7 +1475,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Palisade Hybrid Luxury",
@@ -1384,7 +1495,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS | 7 PASSENGER",
@@ -1395,17 +1508,19 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/c0699e2b1003.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69691882/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69691882/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:52:36",
+      "last_verified": "2026-10-08T00:38:13",
       "price": 58218.0,
       "price_currency": "CAD",
       "odometer_km": 40,
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
-      "name": "2026 Kia Carnival SX | SUNROOF | LEATHER SEATS",
+      "name": "2026 Kia Carnival SX | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDNE5K39T6639653",
       "stock": "CA6057",
       "color": "White",
@@ -1413,17 +1528,19 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/dea2375b3794.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69911151/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69911151/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:52:47",
-      "price": 56218.0,
+      "last_verified": "2026-10-08T00:38:23",
+      "price": 51999.0,
       "price_currency": "CAD",
       "odometer_km": 10,
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
-      "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS",
+      "name": "2026 Kia Carnival SX+ | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDNE5K30T6639945",
       "stock": "CA6058",
       "color": "White",
@@ -1431,17 +1548,19 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/bd5240af8563.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69941650/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69941650/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:52:57",
-      "price": 58218.0,
+      "last_verified": "2026-10-08T00:38:32",
+      "price": 53599.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
-      "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS",
+      "name": "2026 Kia Carnival SX+ | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDNE5K31T6639937",
       "stock": "CA6060",
       "color": "Grey",
@@ -1449,17 +1568,19 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f584ee24f5db.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69993080/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/69993080/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:53:07",
-      "price": 58218.0,
+      "last_verified": "2026-10-08T00:38:41",
+      "price": 53599.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
-      "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS",
+      "name": "2026 Kia Carnival SX+ | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDNE5K33T6642371",
       "stock": "CA6066",
       "color": "White",
@@ -1467,17 +1588,19 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/576a04045786.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/70149950/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/70149950/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:53:16",
-      "price": 58218.0,
+      "last_verified": "2026-10-08T00:38:52",
+      "price": 53599.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
-      "name": "2026 Kia Carnival SX | SUNROOF | LEATHER SEATS | BOSE PREMIUM AUDIO",
+      "name": "2026 Kia Carnival SX | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDNE5K34T6642167",
       "stock": "CA6067",
       "color": "White",
@@ -1485,14 +1608,16 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/2d2c0cd35833.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/70149953/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/carnival/vancouver/bc/70149953/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:53:28",
-      "price": 56218.0,
+      "last_verified": "2026-10-08T00:39:00",
+      "price": 56718.0,
       "price_currency": "CAD",
       "odometer_km": 15,
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival EX+ | SOLAR FRONT DOOR GLASS | HOMELINK",
@@ -1510,7 +1635,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS",
@@ -1528,7 +1655,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival LX+ | KIA CONNECT | BLUETOOTH",
@@ -1546,7 +1675,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS",
@@ -1564,7 +1695,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Carnival SX+ | SUNROOF | LEATHER SEATS",
@@ -1582,7 +1715,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 GT-Line Limited | SUNROOF | DIGITAL KEY | HOMELINK",
@@ -1600,7 +1735,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 GT | SUNROOF | HOMELINK | MERIDIAN PREMIUM AUDIO",
@@ -1618,7 +1755,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 GT | 21 GT ALLOY WHEELS | LOW PROFILE ROOF RAILS",
@@ -1636,7 +1775,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV9",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 Land w/Premium Package | SUNROOF | HOMELINK",
@@ -1653,7 +1794,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV9 Land w/Premium Package",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV9 Land w/GT-Line Package | SUNROOF | BRIDGE-TYPE ROO",
@@ -1670,7 +1813,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV9 Land w/GT-Line Package",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback GT-Line Turbo Limited | SUNROOF | HARMAN KARDON |",
@@ -1688,7 +1833,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 Hatchback GT-Line Turbo Limited | SUNROOF | HARMAN KARDON",
@@ -1706,7 +1853,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | HOMELINK | 19 ALLOY WHEELS",
@@ -1724,7 +1873,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX Premium | SUNROOF | NAVIGATION",
@@ -1742,7 +1893,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo Limited | SUNROOF | HARMAN KARDON",
@@ -1760,7 +1913,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo | SUNROOF | PADDLE SHIFTERS",
@@ -1778,7 +1933,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+ | SUNROOF | SYNTHETIC LEATHER SEATS",
@@ -1796,7 +1953,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+ | SUNROOF | SYNTHETIC LEATHER SEATS",
@@ -1814,7 +1973,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX Premium | SUNROOF | NAVIGATION",
@@ -1832,7 +1993,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+ | SUNROOF | SYNTHETIC LEATHER SEATS",
@@ -1850,7 +2013,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LX | BLUETOOTH | KEYLESS ENTRY",
@@ -1868,7 +2033,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 GT-Line Turbo Limited | HARMAN KARDON | DIGITAL KE",
@@ -1886,7 +2053,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LX+ | KIA CONNECT | BLUETOOTH | CLOTH SEATS",
@@ -1904,7 +2073,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 LX+ | KIA CONNECT | BLUETOOTH",
@@ -1922,7 +2093,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX+| SUNROOF | SYNTHETIC LEATHER SEATS",
@@ -1940,7 +2113,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia K4 EX | CLEAN CARFAX | BLID SPOT | HEATED SEATS |",
@@ -1958,7 +2133,49 @@
       "year": 2026,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2026 Kia K4 EX FWD",
+      "vin": "3KPFU4DE1TE400429",
+      "stock": "K46039",
+      "color": "Blue",
+      "trim": "EX",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f7721a30c454.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/k4/vancouver/bc/71508269/?sale_class=new",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/k4/vancouver/bc/71508269/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:35:59",
+      "price": 29380.0,
+      "price_currency": "CAD",
+      "odometer_km": 15,
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2026 Kia K4 GT-Line Turbo Limited FWD",
+      "vin": "3KPFW4DC4TE400496",
+      "stock": "K46040",
+      "color": "Black",
+      "trim": "GT-Line Turbo Limited",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/6b2195450583.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/k4/vancouver/bc/71508270/?sale_class=new",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/k4/vancouver/bc/71508270/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:36:08",
+      "price": 37380.0,
+      "price_currency": "CAD",
+      "odometer_km": 13,
+      "year": 2026,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ FWD |  ROOF RAILS | REAR PARKING SENSORS",
@@ -1976,7 +2193,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ |  ROOF RAILS | REAR PARKING SENSORS",
@@ -1994,7 +2213,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | APPLE CARPLAY & ANDROID AUTO | HEAT PUMP",
@@ -2012,7 +2233,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | APPLE CARPLAY & ANDROID AUTO | HEATED SEATS",
@@ -2030,7 +2253,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER",
@@ -2048,7 +2273,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | CLOTH AND SYNTHETIC LEATHER",
@@ -2066,7 +2293,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2084,7 +2313,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | CLOTH AND SYNTHETIC LEATHER",
@@ -2102,7 +2333,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | SYNTHETIC LEATHER",
@@ -2120,7 +2353,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2138,7 +2373,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2156,7 +2393,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2174,7 +2413,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | POWER LIFTGATE | ROOF RAILS",
@@ -2192,7 +2433,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
@@ -2210,7 +2453,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
@@ -2228,7 +2473,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | SUNROOF | SYNTHETIC LEATHER SEATS",
@@ -2246,7 +2493,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+| ROOF RAILS | HEAT PUMP | BLUETOOTH",
@@ -2264,7 +2513,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEAT PUMP | BLUETOOTH",
@@ -2282,7 +2533,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+| ROOF RAILS | HEAT PUMP | BLUETOOTH",
@@ -2300,7 +2553,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+| ROOF RAILS | HEAT PUMP | BLUETOOTH",
@@ -2318,7 +2573,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2336,7 +2593,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | SUNROOF | HARMAN KARDON PREMIUM AUDIO",
@@ -2354,7 +2613,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave  | SUNROOF | HARMAN KARDON PREMIUM AUDIO",
@@ -2372,7 +2633,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | SUNROOF | HARMAN KARDON PREMIUM AUDIO SYST",
@@ -2390,7 +2653,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | BLUETOOTH | APPLE CARPLAY",
@@ -2408,7 +2673,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEAT PUMP | KIA CONNECT",
@@ -2426,7 +2693,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2444,7 +2713,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
@@ -2462,7 +2733,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2480,7 +2753,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2498,7 +2773,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2516,7 +2793,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | APPLE CARPLAY | BLUETOOTH | KEYLESS ENTRY",
@@ -2534,7 +2813,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2552,7 +2833,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2570,7 +2853,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+  | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2588,7 +2873,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2606,7 +2893,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER S",
@@ -2624,7 +2913,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2642,7 +2933,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2660,7 +2953,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2678,7 +2973,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2696,7 +2993,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2714,7 +3013,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2732,7 +3033,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEAT PUMP",
@@ -2750,7 +3053,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2768,7 +3073,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER S",
@@ -2786,7 +3093,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+  | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER",
@@ -2804,7 +3113,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER S",
@@ -2822,7 +3133,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER S",
@@ -2840,7 +3153,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
@@ -2858,7 +3173,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
@@ -2876,7 +3193,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2894,7 +3213,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
@@ -2912,7 +3233,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEATED STEERING WHEEL",
@@ -2930,7 +3253,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro EV Wave | SUNROOF | DIGITAL KEY",
@@ -2948,7 +3273,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid SX | HEV | SUNROOF | HARMAN KARDON",
@@ -2966,7 +3293,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Niro Hybrid LX | BLUETOOTH | KEYLESS ENTRY | IMMOBILIZER",
@@ -2984,7 +3313,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos X-Line | BIG SAVINGS | LIMITED TIME",
@@ -3002,7 +3333,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX Premium | SBIG SAVINGS | LIMITED TIME",
@@ -3020,7 +3353,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX Premium | BIG SAVINGS | LIMITED TIME",
@@ -3038,7 +3373,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos X-Line  | BIG SAVINGS | LIMITED TIME",
@@ -3056,7 +3393,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos SX | BIG SAVINGS | LIMITED TIME",
@@ -3074,7 +3413,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Seltos EX | SMART KEY | ADJUSTABLE REAR SEAT HEADRESTS",
@@ -3092,7 +3433,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX | APPLE CARPLAY | KIA CONNECT",
@@ -3110,7 +3453,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX | SUNROOF | LEATHER SEATS",
@@ -3128,7 +3473,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX+ | KIA CONNECT | BLUETOOTH",
@@ -3146,7 +3493,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX+ | KIA CONNECT | BLUETOOTH",
@@ -3164,7 +3513,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX | LEATHER SEATS | HOMELINK",
@@ -3182,7 +3533,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX | HOMELINK | SYNTHETIC LEATHER SEATS",
@@ -3200,7 +3553,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX | SUNROOF | HARMAN KARDON",
@@ -3218,7 +3573,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX+ | KIA CONNECT | BLUETOOTH",
@@ -3236,7 +3593,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX | HOMELINK SYSTEM | LEATHER SEATS (SYNTHETIC)",
@@ -3254,7 +3613,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid EX | HOMELINK | LEATHER SEATS (SYNTHETIC)",
@@ -3272,7 +3633,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX | SUNROOF | BOSE PREMIUM AUDIO SYSTEM",
@@ -3290,7 +3653,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid SX",
@@ -3307,7 +3672,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Hybrid LX AWD",
@@ -3322,7 +3689,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX | APPLE CARPLAY | KIA CONNECT",
@@ -3340,7 +3709,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX | ROOF RAILS | APPLE CARPLAY | KIA CONNECT",
@@ -3358,7 +3729,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX | ROOF RAILS | APPLE CARPLAY | BLUETOOTH",
@@ -3376,7 +3749,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid EX | HOMELINK | LEATHER SEATS",
@@ -3394,7 +3769,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid EX | HOMELINK | LEATHER SEATS | SPLASH GUARDS",
@@ -3412,7 +3789,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid EX | BLUETOOTH | KIA CONNECT | HOMELINK",
@@ -3430,7 +3809,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid LX+ | KIA CONNECT | BLUETOOTH | SPLASH GUARDS",
@@ -3448,7 +3829,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sorento Plug-In Hybrid EX | HOMELINK | LAMINATED FRONT DOOR GLASS",
@@ -3466,7 +3849,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX | BIG SAVINGS | LIMITED TIME",
@@ -3484,7 +3869,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX | BIG SAVINGS | LIMITED TIME",
@@ -3502,7 +3889,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Hybrid EX AWD",
@@ -3516,7 +3905,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid EX | BIG SAVINGS | LIMITED TIME",
@@ -3534,7 +3925,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid EX | BIG SAVINGS | LIMITED TIME",
@@ -3552,7 +3945,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid EX | BIG SAVINGS | LIMITED TIME",
@@ -3570,7 +3965,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid SX",
@@ -3588,7 +3985,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid SX",
@@ -3606,7 +4005,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage Plug-in Hybrid SX | AWD |",
@@ -3624,7 +4025,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Plug-In Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SUNROOF | 19 ALLOY WHEELS",
@@ -3642,7 +4045,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | HOMELINK SYSTEM",
@@ -3660,7 +4065,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | AWD | SUNROOF | HOMELINK | ROOF RAILS",
@@ -3678,7 +4085,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line AWD | LEATHER | HEATED SEATS",
@@ -3696,7 +4105,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | 17 ALLOY WHEELS | BLUETOTH | APPLE CARPLAY",
@@ -3714,7 +4125,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line | 19 ALLOY WHEELS WITH MICHELIN TIRES",
@@ -3732,7 +4145,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | 18 ALLOY WHEELS | HOMELINK",
@@ -3750,7 +4165,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | 18 ALLOY WHEELS | HOMELINK",
@@ -3768,7 +4185,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SUNROOF | 19 ALLOY WHEELS",
@@ -3786,7 +4205,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line | 19 ALLOY WHEELS | LEATHER SEATS",
@@ -3804,7 +4225,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | HOMELINK | LEATHER SEATS",
@@ -3822,7 +4245,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | 19 ALLOY WHEELS | HOMELINK",
@@ -3840,7 +4265,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | 18 ALLOY WHEELS | HOMELINK",
@@ -3858,7 +4285,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SUNROOF | HARMAN KARDON AUDIO",
@@ -3876,7 +4305,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | KEYLESS ENTRY | KIA CONNECT",
@@ -3894,7 +4325,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | ROOF RAILS | KIA CONNECT | BLUETOOTH",
@@ -3912,7 +4345,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | 19 ALLOY WHEELS",
@@ -3930,7 +4365,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | ROOF RAILS",
@@ -3948,7 +4385,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS",
@@ -3966,7 +4405,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | BLUETOOTH | KIA CONNECT",
@@ -3984,7 +4425,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | 17 ALLOY WHEELS | BLUETOOTH",
@@ -4002,7 +4445,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line| MICHELIN TIRES | LEATHER SEATS (SYNTHETIC)",
@@ -4020,7 +4465,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | ROOF RAILS",
@@ -4038,7 +4485,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX | SUNROOF | HOMELINK | ROOF RAILS",
@@ -4056,7 +4505,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -4074,7 +4525,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SUNROOF | HARMAN KARDON",
@@ -4092,7 +4545,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS",
@@ -4110,7 +4565,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | KIA CONNECT | APPLE CARPLAY",
@@ -4128,7 +4585,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | BLUETOOTH | KIA CONNECT",
@@ -4146,7 +4605,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS",
@@ -4164,7 +4625,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS | ALLOY PEDAL",
@@ -4182,7 +4645,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SYNTHETIC LEATHER SEATS",
@@ -4200,7 +4665,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX+ | KIA CONNECT | BLUETOOTH",
@@ -4218,7 +4685,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX+ | KIA CONNECT | BLUETOOTH",
@@ -4236,7 +4705,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line | SUNROOF | 19 ALLOY WHEELS WITH MICHELIN T",
@@ -4254,7 +4725,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX+ | KIA CONNECT | BLUETOOTH",
@@ -4272,7 +4745,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS",
@@ -4290,7 +4765,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS (SYNTHETIC)",
@@ -4308,7 +4785,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage EX Premium | SUNROOF | LEATHER SEATS",
@@ -4326,7 +4805,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX+ | KIA CONNECT | BLUETOOTH",
@@ -4344,7 +4825,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SUNROOF | HARMAN KARDON AUDIO SYS",
@@ -4362,7 +4845,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line | LEATHER SEATS (SYNTHETIC) | MICHELINE TIR",
@@ -4380,7 +4865,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | BLUETOOTH | KEYLESS ENTRY",
@@ -4398,7 +4885,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage LX | BLUETOOTH | KIA CONNECT",
@@ -4416,7 +4905,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage X-Line Limited | SUNROOF | CLEAN CARFAX | LEATHER",
@@ -4434,7 +4925,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2026 Mitsubishi Eclipse Cross SE | CLEAN CARFAX | HEATED FRONT SEATS",
@@ -4452,7 +4945,9 @@
       "year": 2026,
       "make": "Mitsubishi",
       "model": "Eclipse Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | HOMELINK | LEATHER SEATS (SYNTHETIC)",
@@ -4470,7 +4965,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | ARTIFICIAL LEATHER SEATS | POWER PASSENGER SE",
@@ -4488,7 +4985,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid LX+ | ROOF RAILS | HEATED FRONT SEATS",
@@ -4506,7 +5005,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | ARTIFICIAL LEATHER SEATS | POWER PASSENGER SE",
@@ -4524,7 +5025,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | HOMELINK | LEATHER SEATS (SYNTHETIC)",
@@ -4542,7 +5045,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | HOMELINK | LEATHER SEATS (SYNTHETIC)",
@@ -4560,7 +5065,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid SX+ | SUNROOF | LEATHER SEATS",
@@ -4578,7 +5085,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival Hybrid EX | LED FOG LIGHTS | HOMELINK SYSTEM",
@@ -4596,7 +5105,29 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Kia Carnival Hybrid SX+ FWD",
+      "vin": "KNDNE5KA4V6228761",
+      "stock": "CA7025",
+      "color": "White",
+      "trim": "SX+",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f99f52258e3c.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2027/kia/carnival-hybrid/vancouver/bc/71508282/?sale_class=new",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2027/kia/carnival-hybrid/vancouver/bc/71508282/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:36:18",
+      "price": 59130.0,
+      "price_currency": "CAD",
+      "odometer_km": 13,
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival Hybrid",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX | SUNROOF | BOSE PREMIUM AUDIO SYSTEM",
@@ -4614,7 +5145,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX | SUNROOF | LEATHER SEATS",
@@ -4632,7 +5165,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX | ROOF RAILS | HEATED FRONT SEATS",
@@ -4650,7 +5185,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | HEATED FRONT SEATS | CARGO NET",
@@ -4668,7 +5205,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+| HEATED FRONT SEATS | CARGO NET",
@@ -4686,7 +5225,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | ROOF RAILS | HEATED FRONT SEATS",
@@ -4704,7 +5245,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | ROOF RAILS | SMART POWER LIFTGATE",
@@ -4722,7 +5265,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | KIA CONNECT | BLUETOOTH",
@@ -4740,7 +5285,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | KIA CONNECT | BLUETOOTH",
@@ -4758,7 +5305,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival LX+ | KIA CONNECT | BLUETOOTH",
@@ -4776,7 +5325,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival EX+ | SOLAR FRONT DOOR GLASS",
@@ -4794,7 +5345,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Carnival SX+| SUNROOF | 7-PASSENGER SEATING",
@@ -4812,7 +5365,49 @@
       "year": 2027,
       "make": "Kia",
       "model": "Carnival",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Kia Carnival LX+ | 17 ALLOY WHEELS | ROOF RAILS | HEATED FRONT",
+      "vin": "KNDNB5K35V6670670",
+      "stock": "CA7024",
+      "color": "White",
+      "trim": "LX+",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/bd3e70d2263b.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2027/kia/carnival/vancouver/bc/71508272/?sale_class=new",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2027/kia/carnival/vancouver/bc/71508272/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:36:27",
+      "price": 51095.0,
+      "price_currency": "CAD",
+      "odometer_km": 15,
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2027 Kia Carnival EX | 19 MACHINED-FINISH ALLOY WHEELS | HEATED FRON",
+      "vin": "KNDNC5K39V6664674",
+      "stock": "CA7023",
+      "color": "White",
+      "trim": "EX",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/af15f511d551.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2027/kia/carnival/vancouver/bc/71508275/?sale_class=new",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2027/kia/carnival/vancouver/bc/71508275/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-08T00:36:35",
+      "price": 51530.0,
+      "price_currency": "CAD",
+      "odometer_km": 15,
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 GT-Line Limited | SUNROOF | HARMAN KARDON PREMIUM",
@@ -4830,7 +5425,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Light",
@@ -4848,7 +5445,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Light",
@@ -4866,7 +5465,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Land | AWD |",
@@ -4882,7 +5483,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3 Land",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 Land | AWD |",
@@ -4899,7 +5502,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3 Land",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 GT-Line AWD",
@@ -4917,7 +5522,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV3 GT-Line AWD",
@@ -4935,7 +5542,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 Wind | KIA CONNECT | HEAT PUMP",
@@ -4953,7 +5562,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line | SUNROOF | DELUXE DOOR SCUFFS AND PEDALS",
@@ -4971,25 +5582,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "used"
-    },
-    {
-      "name": "2027 Kia EV5 Wind | AWD |",
-      "vin": "KNDH3DDE0V7057272",
-      "stock": "E57027",
-      "color": "Black",
-      "trim": "Wind",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/fbf67252ff75.html",
-      "source_url": "https://www.godowntownkia.ca/vehicles/2027/kia/ev5/vancouver/bc/71437724/?sale_class=new",
-      "dealer_url": "https://www.godowntownkia.ca/vehicles/2027/kia/ev5/vancouver/bc/71437724/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:26:01",
-      "price": 52530.0,
-      "price_currency": "CAD",
-      "odometer_km": 15,
-      "year": 2027,
-      "make": "Kia",
-      "model": "EV5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line Limited FWD",
@@ -5007,7 +5602,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia EV5 GT-Line AWD",
@@ -5025,7 +5622,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | LOCKING DIFFERENTIAL | BLUETOOTH",
@@ -5043,7 +5642,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | LOCKING DIFFERENTIAL | BLUETOOTH",
@@ -5061,7 +5662,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5079,7 +5682,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5097,7 +5702,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | LOCKING DIFFERENTIAL | BLUETOOTH",
@@ -5115,7 +5722,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5133,7 +5742,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | BLUETOOTH | APPLE CARPLAY",
@@ -5151,7 +5762,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | BLUETOOTH | APPLE CARPLAY",
@@ -5169,7 +5782,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | LOCKING DIFFERENTIAL | BLUETOOTH",
@@ -5187,7 +5802,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | KIA CONNECT | BLUETOOTH",
@@ -5205,7 +5822,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | ROOF RAILS | BLUETOOTH",
@@ -5223,7 +5842,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium | 12 NAVIGATION (HD RADIO)",
@@ -5241,7 +5862,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | BLUETOOTH | KEYLESS ENTRY",
@@ -5259,7 +5882,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos X-Line Limited | HARMAN KARDON | DIGITAL KEY",
@@ -5277,7 +5902,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | BLUETOOTH | KEYLESS ENTRY",
@@ -5295,7 +5922,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5313,7 +5942,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX | SUNROOF | HEATED STEERING WHEEL",
@@ -5331,7 +5962,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | KEYLESS ENTRY | KIA CONNECT",
@@ -5349,7 +5982,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5367,7 +6002,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5385,7 +6022,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX | SUNROOF | HEATED STEERING WHEEL",
@@ -5403,7 +6042,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5421,7 +6062,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX | SUNROOF | HEATED STEERING WHEEL",
@@ -5439,7 +6082,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX | SUNROOF | SOFINO LEATHER SEATS",
@@ -5457,7 +6102,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX | SUNROOF | HEATED STEERING WHEEL",
@@ -5475,7 +6122,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5493,7 +6142,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH | HEATED FRONT SEATS",
@@ -5511,7 +6162,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | ROOF RAILS | LOCKING DIFFERENTIAL",
@@ -5529,7 +6182,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | APPLE CARPLAY | BLUETOOTH | HEATED FRONT SEAT",
@@ -5547,7 +6202,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5565,7 +6222,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH | HEATED FRONT SEATS",
@@ -5583,7 +6242,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5601,7 +6262,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX | APPLE CARPLAY | BLUETOOTH | HEATED FRONT SEAT",
@@ -5619,7 +6282,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5637,7 +6302,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | BLUETOOTH",
@@ -5655,7 +6322,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Seltos LX+ | KIA CONNECT | HEATED FRONT SEATS",
@@ -5673,7 +6342,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5691,7 +6362,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX | SUNROOF | HARMAN KARDON",
@@ -5709,7 +6382,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SUNROOF | 18 ALLOY WHEELS",
@@ -5727,7 +6402,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5745,7 +6422,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | 6 SPEAKERS | KIA CONNECT",
@@ -5763,7 +6442,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | 6 SPEAKERS | KIA CONNECT",
@@ -5781,7 +6462,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | 6 SPEAKERS | KIA CONNECT",
@@ -5799,7 +6482,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX | SUNROOF | HARMAN KARDON",
@@ -5817,7 +6502,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5835,7 +6522,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5853,7 +6542,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5871,7 +6562,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | 6 SPEAKERS | KIA CONNECT",
@@ -5889,7 +6582,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX | SUNROOF | HARMAN KARDON",
@@ -5907,7 +6602,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX | 18 ALLOY WHEELS | BLIND VIEW MONITOR",
@@ -5925,7 +6622,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX | DIGITAL KEY | 18 ALLOY WHEELS",
@@ -5943,7 +6642,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
@@ -5961,7 +6662,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | SYNTHETIC LEATHER | KIA CONNECT",
@@ -5979,7 +6682,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | BLUETHOOTH | KIA CONNECT",
@@ -5997,7 +6702,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | BLUETHOOTH | KIA CONNECT",
@@ -6015,7 +6722,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX | SYNTHETIC LEATHER | KIA CONNECT",
@@ -6033,7 +6742,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX AWD w-Black Interior",
@@ -6051,7 +6762,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
     }
   ]
 }
