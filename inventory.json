@@ -1,7 +1,7 @@
 {
   "dealership": "Go Downtown Kia",
-  "generated_at": "2026-10-10T00:55:51",
-  "vehicle_count": 337,
+  "generated_at": "2026-10-11T01:01:59",
+  "vehicle_count": 338,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -290,6 +290,23 @@
       "year": 2020,
       "make": "Mercedes-Benz",
       "model": "A-Class Sedan A 220",
+      "condition": "used",
+      "city": "Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "2020 Mercedes-Benz CLA Coupe CLA 250 4MATIC Coupe",
+      "vin": "W1K5J4HB1LN086626",
+      "stock": "CA6073B",
+      "trim": "CLA 250 4MATIC Coupe",
+      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/98ad8d57f133.html",
+      "source_url": "https://www.godowntownkia.ca/vehicles/2020/mercedes-benz/cla-coupe/vancouver/bc/71537137/?sale_class=used",
+      "dealer_url": "https://www.godowntownkia.ca/vehicles/2020/mercedes-benz/cla-coupe/vancouver/bc/71537137/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-11T00:59:27",
+      "odometer_km": 54759,
+      "year": 2020,
+      "make": "Mercedes-Benz",
+      "model": "CLA",
       "condition": "used",
       "city": "Vancouver",
       "province": "BC"
@@ -2247,7 +2264,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | CLOTH AND SYNTHETIC LEATHER",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L14T5150712",
       "stock": "NH6086",
       "color": "Grey",
@@ -2255,7 +2272,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/322da5cc7f99.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69262748/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69262748/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:58:59",
+      "last_verified": "2026-10-11T00:59:36",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 10,
@@ -2267,7 +2284,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | CLOTH AND SYNTHETIC LEATHER",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L14T5152265",
       "stock": "NH6099",
       "color": "Green",
@@ -2275,7 +2292,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/35df59261991.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69447486/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69447486/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:59:10",
+      "last_verified": "2026-10-11T00:59:46",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 12,
@@ -2287,7 +2304,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L13T5151690",
       "stock": "NH6107",
       "color": "Blue",
@@ -2295,7 +2312,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/0f6ce3faa317.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69467852/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69467852/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:59:18",
+      "last_verified": "2026-10-11T00:59:56",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 10,
@@ -2307,7 +2324,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | CLOTH AND SYNTHETIC LEATHER",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L1XT5152240",
       "stock": "NH6100",
       "color": "Black",
@@ -2315,7 +2332,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/8d6aaf0c30bf.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69467853/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69467853/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:59:29",
+      "last_verified": "2026-10-11T01:00:07",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 10,
@@ -2327,7 +2344,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | SYNTHETIC LEATHER",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L16T5151814",
       "stock": "NH6101",
       "color": "Blue",
@@ -2335,7 +2352,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/afc1fc7ab0b3.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69467863/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69467863/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:59:39",
+      "last_verified": "2026-10-11T01:00:17",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 16,
@@ -2347,7 +2364,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L18T5151667",
       "stock": "NH6110",
       "color": "Blue",
@@ -2355,7 +2372,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/1f6965aa6964.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69503503/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69503503/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:59:50",
+      "last_verified": "2026-10-11T01:00:26",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 14,
@@ -2367,7 +2384,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L11T5153003",
       "stock": "NH6114",
       "color": "Green",
@@ -2375,7 +2392,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/252cbbfd8902.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69640582/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69640582/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T17:59:58",
+      "last_verified": "2026-10-11T01:00:36",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 10,
@@ -2387,7 +2404,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | POWER LIFTGATE",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L1XT5152965",
       "stock": "NH6117",
       "color": "Grey",
@@ -2395,7 +2412,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/b108d7574191.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69691878/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69691878/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:00:07",
+      "last_verified": "2026-10-11T01:00:45",
       "price": 50945.0,
       "price_currency": "CAD",
       "odometer_km": 15,
@@ -2407,7 +2424,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | POWER LIFTGATE | ROOF RAILS",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L13T5152998",
       "stock": "NH6125",
       "color": "Green",
@@ -2415,7 +2432,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/a373ffa8f194.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69766230/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69766230/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:00:17",
+      "last_verified": "2026-10-11T01:00:55",
       "price": 50845.0,
       "price_currency": "CAD",
       "odometer_km": 11,
@@ -2427,7 +2444,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
+      "name": "2026 Kia Niro EV Wind | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDCP3L15T5149509",
       "stock": "NH6126",
       "color": "White",
@@ -2435,8 +2452,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/8d0becf07527.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69824822/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/69824822/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:00:26",
-      "price": 47845.0,
+      "last_verified": "2026-10-11T01:01:04",
+      "price": 39999.0,
       "price_currency": "CAD",
       "odometer_km": 150,
       "year": 2026,
@@ -2447,7 +2464,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind | KIA CONNECT | BLUETOOTH",
+      "name": "2026 Kia Niro EV Wind | BIG SAVINGS | LIMITED TIME",
       "vin": "KNDCP3L17T5157613",
       "stock": "NH6137",
       "color": "Grey",
@@ -2455,8 +2472,8 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/3eb09dc74399.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70196658/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70196658/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:00:35",
-      "price": 47945.0,
+      "last_verified": "2026-10-11T01:01:13",
+      "price": 39999.0,
       "price_currency": "CAD",
       "odometer_km": 13,
       "year": 2026,
@@ -2467,7 +2484,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wave | SUNROOF | SYNTHETIC LEATHER SEATS",
+      "name": "2026 Kia Niro EV Wave | 17 ALLOY WHEELS | HARMAN KARDON AUDIO SYSTE",
       "vin": "KNDCT3L10T5156461",
       "stock": "NH6140",
       "color": "Black",
@@ -2475,7 +2492,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f088c8590038.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70208582/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70208582/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:00:43",
+      "last_verified": "2026-10-11T01:01:23",
       "price": 55595.0,
       "price_currency": "CAD",
       "odometer_km": 15,
@@ -2487,7 +2504,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+| ROOF RAILS | HEAT PUMP | BLUETOOTH",
+      "name": "2026 Kia Niro EV Wind+| 17 ALLOY WHEELS | HEATED STEERING WHEEL | K",
       "vin": "KNDCR3L13T5157974",
       "stock": "NH6148",
       "color": "Grey",
@@ -2495,7 +2512,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/7bad24d7226a.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70239971/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70239971/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:00:53",
+      "last_verified": "2026-10-11T01:01:33",
       "price": 50845.0,
       "price_currency": "CAD",
       "odometer_km": 15,
@@ -2507,7 +2524,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+ | ROOF RAILS | HEAT PUMP | BLUETOOTH",
+      "name": "2026 Kia Niro EV Wind+ | 17 ALLOY WHEELS | HEATED STEERING WHEEL |",
       "vin": "KNDCR3L11T5158122",
       "stock": "NH6149",
       "color": "Blue",
@@ -2515,7 +2532,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f632bc277364.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70239972/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70239972/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:01:03",
+      "last_verified": "2026-10-11T01:01:41",
       "price": 50845.0,
       "price_currency": "CAD",
       "odometer_km": 15,
@@ -2527,7 +2544,7 @@
       "province": "BC"
     },
     {
-      "name": "2026 Kia Niro EV Wind+| ROOF RAILS | HEAT PUMP | BLUETOOTH",
+      "name": "2026 Kia Niro EV Wind+| 17 ALLOY WHEELS | HEATED STEERING WHEEL | K",
       "vin": "KNDCR3L17T5157993",
       "stock": "NH6147",
       "color": "Green",
@@ -2535,7 +2552,7 @@
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/7f9a0d860465.html",
       "source_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70239974/?sale_class=new",
       "dealer_url": "https://www.godowntownkia.ca/vehicles/2026/kia/niro-ev/vancouver/bc/70239974/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T18:01:12",
+      "last_verified": "2026-10-11T01:01:52",
       "price": 50845.0,
       "price_currency": "CAD",
       "odometer_km": 16,
