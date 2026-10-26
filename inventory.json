@@ -1,19 +1,19 @@
 {
   "dealership": "Go Downtown Kia",
-  "generated_at": "2026-10-26T01:50:09",
+  "generated_at": "2026-10-26T10:19:48",
   "vehicle_count": 394,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2015 Jeep Wrangler Sahara",
+      "name": "2015 Jeep Wrangler Sahara | ONE OWNER | LOCAL BC JEEP | ACCIDENT FREE |",
       "vin": "1C4BJWEGXFL716913",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/2dfee1eb54e6.html",
       "year": 2015,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 23995.0,
+      "price": 23798.0,
       "price_currency": "CAD"
     },
     {
@@ -106,7 +106,7 @@
       "make": "Honda",
       "model": "Accord",
       "condition": "used",
-      "price": 19498.0,
+      "price": 18798.0,
       "price_currency": "CAD"
     },
     {
@@ -128,7 +128,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 12498.0,
+      "price": 11498.0,
       "price_currency": "CAD"
     },
     {
@@ -141,36 +141,36 @@
       "condition": "used"
     },
     {
-      "name": "2019 Kia Sorento EX 2.4",
+      "name": "2019 Kia Sorento EX 2.4 | CLEAN CARFAX | HEATED STEERING WHEEL",
       "vin": "5XYPHDA39KG482178",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/c87b898adbc5.html",
       "year": 2019,
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 16995.0,
+      "price": 16498.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Mazda CX-9 GT | VENTILATED SEATS | BOSE PREMIUM AUDIO | SUNRO",
+      "name": "2019 Mazda CX-9 GT | VENTILATED SEATS | BOSE PREMIUM AUDIO | SUNROOF",
       "vin": "JM3TCBDY4K0326040",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/33999d39a98f.html",
       "year": 2019,
       "make": "Mazda",
       "model": "CX-9",
       "condition": "used",
-      "price": 23498.0,
+      "price": 22998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 BMW X4 M Competition",
+      "name": "2020 BMW X4 M Competition | LOCAL BC VEHICLE | ACCIDENT FREE |",
       "vin": "5YMUJ0C02LLU67392",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/8a9d949c392e.html",
       "year": 2020,
       "make": "BMW",
       "model": "X4",
       "condition": "used",
-      "price": 56999.0,
+      "price": 56498.0,
       "price_currency": "CAD"
     },
     {
@@ -185,13 +185,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Mazda CX-5 Signature",
+      "name": "2020 Mazda CX-5 Signature | CLEAN CARFAX | LOCAL BC SUV | LEATHER | SUNROOF |",
       "vin": "JM3KFBEY2L0812994",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/61a415e1ce29.html",
       "year": 2020,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "price": 30498.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2020 Mercedes-Benz A-Class Sedan A 220 | SUNROOF | LEATHER SEATS",
@@ -230,47 +232,47 @@
       "condition": "used"
     },
     {
-      "name": "2021 Honda Pilot Touring 8-Passenger | SUNROOF | LOW KILOMETRES | C",
+      "name": "2021 Honda Pilot Touring 8-Passenger | SUNROOF | LOW KILOMETRES | CLEAN CARFAX",
       "vin": "5FNYF6H94MB500130",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/fbb47d92a8fb.html",
       "year": 2021,
       "make": "Honda",
       "model": "Pilot",
       "condition": "used",
-      "price": 34498.0,
+      "price": 33898.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Civic Sedan Sport | HEATED SEATS | APPLE CARPLAY & ANDROID AUT",
+      "name": "2022 Honda Civic Sedan Sport | HEATED SEATS | APPLE CARPLAY & ANDROID AUTO |",
       "vin": "2HGFE2F55NH113683",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/3e46cd4d2d68.html",
       "year": 2022,
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 22298.0,
+      "price": 21798.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Jeep Wrangler Unlimited High Altitude | CLEAN CARFAX | TOW PKG |",
+      "name": "2022 Jeep Wrangler Unlimited High Altitude | CLEAN CARFAX | TOW PKG | 8-SPEED A/T |",
       "vin": "1C4HJXEG2NW259138",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f1adf8c7ad86.html",
       "year": 2022,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 37898.0,
+      "price": 36298.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia EV6 Long Range w/GT-Line Pkg 1 | LOCAL BC VEHICLE | HE",
+      "name": "2022 Kia EV6 Long Range w/GT-Line Pkg 1 | LOCAL BC VEHICLE | HEATED SEATS | APPLE CARPLAY & ANDROID AUTO |",
       "vin": "KNDC4DLC9N5087860",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/1f8ed3a31908.html",
       "year": 2022,
       "make": "Kia",
       "model": "EV6",
       "condition": "used",
-      "price": 36498.0,
+      "price": 35498.0,
       "price_currency": "CAD"
     },
     {
@@ -303,14 +305,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Genesis GV80 2.5T Advanced | BC LOCAL SUV | CLEAN CARFAX | LEAT",
+      "name": "2023 Genesis GV80 2.5T Advanced | BC LOCAL SUV | CLEAN CARFAX | LEATHER SEATS",
       "vin": "KMUHBDSB8PU106179",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/186d6b5b08a2.html",
       "year": 2023,
       "make": "Genesis",
       "model": "GV80",
       "condition": "used",
-      "price": 45698.0,
+      "price": 44698.0,
       "price_currency": "CAD"
     },
     {
@@ -321,17 +323,19 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 29898.0,
+      "price": 29298.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia EV6 AWD Long Range",
+      "name": "2023 Kia EV6 Long Range | LOCAL BC VEHICLE | ONE OWNER & CLEAN CARFAX |",
       "vin": "KNDC3DLC5P5115367",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/87feb2dba9f8.html",
       "year": 2023,
       "make": "Kia",
       "model": "EV6",
-      "condition": "used"
+      "condition": "used",
+      "price": 40498.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2023 Kia Forte Sedan EX | HEATED SEATS | BACKUP CAM |",
@@ -341,7 +345,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 19498.0,
+      "price": 18898.0,
       "price_currency": "CAD"
     },
     {
