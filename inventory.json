@@ -1,7 +1,7 @@
 {
   "dealership": "Go Downtown Kia",
-  "generated_at": "2026-10-25T16:39:54",
-  "vehicle_count": 398,
+  "generated_at": "2026-10-26T01:50:09",
+  "vehicle_count": 394,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -42,7 +42,7 @@
       "make": "Toyota",
       "model": "RAV4 Hybrid",
       "condition": "used",
-      "price": 25898.0,
+      "price": 25598.0,
       "price_currency": "CAD"
     },
     {
@@ -88,14 +88,14 @@
       "condition": "used"
     },
     {
-      "name": "2018 Mazda CX-3 GT",
+      "name": "2018 Mazda CX-3 GT | LOCAL BC VEHICLE | ONE OWNER | CLEAN CARFAX | LEATHER | HEATED SEATS |",
       "vin": "JM1DKFD7XJ0302760",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/dc1ffb6fc96c.html",
       "year": 2018,
       "make": "Mazda",
       "model": "CX-3",
       "condition": "used",
-      "price": 22995.0,
+      "price": 21998.0,
       "price_currency": "CAD"
     },
     {
@@ -160,17 +160,6 @@
       "model": "CX-9",
       "condition": "used",
       "price": 23498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Toyota Prius Prime LOCAL BC VEHICLE | HEATED SEATS | LANE DEPARTURE |",
-      "vin": "JTDKARFP3K3111125",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/f6c2e138faf1.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "used",
-      "price": 20498.0,
       "price_currency": "CAD"
     },
     {
@@ -367,17 +356,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Soul EV EV Premium",
-      "vin": "KNDJ23A22P7029923",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/09f2338f0b93.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Soul EV EV",
-      "condition": "used",
-      "price": 25999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Soul EX+ | LOCAL BC VEHICLE | POWER SUNROOF | WIRELESS",
       "vin": "KNDJ33AU3P7193163",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/40f03784fe1b.html",
@@ -469,14 +447,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Niro EV Wind+ FWD",
+      "name": "2024 Kia Niro EV Wind+ | LOCAL BC VEHICLE | ONE OWNER | HEATED SEATS |",
       "vin": "KNDCR3L11R5112962",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/fd312040fefe.html",
       "year": 2024,
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 31995.0,
+      "price": 31898.0,
       "price_currency": "CAD"
     },
     {
@@ -541,17 +519,6 @@
       "model": "Q3",
       "condition": "used",
       "price": 32998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Audi Q3 Progressiv | CLEAN CARFAX | LOCAL BC SUV |",
-      "vin": "WA1EECF33S1112289",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/1e2db7f11f91.html",
-      "year": 2025,
-      "make": "Audi",
-      "model": "Q3",
-      "condition": "used",
-      "price": 36498.0,
       "price_currency": "CAD"
     },
     {
@@ -740,23 +707,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 9 Preferred + AWD w-Ultimate Calligraphy Pkg",
+      "name": "2026 Hyundai IONIQ 9 Preferred + w/Ultimate Calligraphy Pkg | LOCAL BC SUV | CLEAN CARFAX | ONE OWNER |",
       "vin": "KM8MYFS56TA006935",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/1121fa1737a5.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "IONIQ 9",
-      "condition": "used"
+      "condition": "used",
+      "price": 77498.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai Palisade Hybrid Luxury",
+      "name": "2026 Hyundai Palisade Hybrid Luxury | LOCAL BC SUV | CLEAN CARFAX | 3RD ROW |",
       "vin": "KM8RKESA3TU060075",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/4869e68285b9.html",
       "year": 2026,
       "make": "Hyundai",
       "model": "Palisade Hybrid",
       "condition": "used",
-      "price": 61995.0,
+      "price": 60998.0,
       "price_currency": "CAD"
     },
     {
@@ -2459,17 +2428,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage EX Premium | 19 ALLOY WHEELS | SUNROOF | LEATHER S",
-      "vin": "KNDPVCDF9T7512125",
-      "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/b741fd44fb6c.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 44695.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Kia Sportage X-Line Limited | 19 ALLOY WHEELS WITH MICHELINE TI",
       "vin": "KNDPXCDF6T7511346",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/2d0c9cc2c3d1.html",
@@ -3764,84 +3722,84 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
+      "name": "2027 Kia Sportage Hybrid EX Premium | 18 ALLOY WHEELS | SUNROOF | LEATHER S",
       "vin": "KNDPVDDG2V7429959",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/0916adb55d36.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 46530.0,
+      "price": 47030.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium | SUNROOF | HEATED REAR SEATS",
+      "name": "2027 Kia Sportage Hybrid EX Premium | 18 ALLOY WHEELS | SUNROOF | LEATHER S",
       "vin": "KNDPVDDG9V7430610",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/ae5d273d9b15.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 46530.0,
+      "price": 47030.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX | 6 SPEAKERS | KIA CONNECT",
+      "name": "2027 Kia Sportage Hybrid EX | 17 ALLOY WHEELS | HOMELINK SYSTEM | LEATHER S",
       "vin": "KNDPVDDG3V7431977",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/af951ef7a8d4.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 43330.0,
+      "price": 43830.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX | SUNROOF | HARMAN KARDON",
+      "name": "2027 Kia Sportage Hybrid SX | 18 ALLOY WHEELS | SUNROOF | HARMAN KARDON | L",
       "vin": "KNDPXDDG4V7432050",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/c132b52c7ee5.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 50080.0,
+      "price": 50580.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX | 18 ALLOY WHEELS | BLIND VIEW MONITOR",
+      "name": "2027 Kia Sportage Hybrid SX | 18 ALLOY WHEELS | SUNROOF | HARMAN KARDON | L",
       "vin": "KNDPXDDG9V7439334",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/67148879061a.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 50080.0,
+      "price": 50580.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX | DIGITAL KEY | 18 ALLOY WHEELS",
+      "name": "2027 Kia Sportage Hybrid SX | 18 ALLOY WHEELS | SUNROOF | HARMAN KARDON | L",
       "vin": "KNDPXDDG9V7439317",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/d3241ef7f400.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 50080.0,
+      "price": 50580.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX | SYNTHETIC LEATHER | KIA CONNECT",
+      "name": "2027 Kia Sportage Hybrid EX | 17 ALLOY WHEELS | HOMELINK SYSTEM | LEATHER S",
       "vin": "KNDPVDDG4V7442275",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/cde7aa42f194.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 43530.0,
+      "price": 44030.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX | BLUETHOOTH | KIA CONNECT",
+      "name": "2027 Kia Sportage Hybrid EX | 17 ALLOY WHEELS | HOMELINK SYSTEM | LEATHER S",
       "vin": "KNDPVDDG4V7444673",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/39a578ae6d5b.html",
       "year": 2027,
@@ -3852,7 +3810,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX | BLUETHOOTH | KIA CONNECT",
+      "name": "2027 Kia Sportage Hybrid EX | 17 ALLOY WHEELS | HOMELINK SYSTEM | LEATHER S",
       "vin": "KNDPVDDG5V7443399",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/031bf1c970fd.html",
       "year": 2027,
@@ -3863,7 +3821,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX | SYNTHETIC LEATHER | KIA CONNECT",
+      "name": "2027 Kia Sportage Hybrid EX | 17 ALLOY WHEELS | HOMELINK SYSTEM | LEATHER S",
       "vin": "KNDPVDDG6V7445873",
       "url": "https://willyml1979-dotcom.github.io/go-downtown-kia-mirror/used/37ecdeb4d78d.html",
       "year": 2027,
